@@ -70,6 +70,6 @@ Temporary Items
 .apdisk
 
 ### Misc ###
-./Misc
+Misc/*
 
 # End of https://www.gitignore.io/api/java,java-web,visualstudiocode,macos
