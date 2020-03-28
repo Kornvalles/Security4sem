@@ -69,4 +69,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### Misc ###
+./Misc
+
 # End of https://www.gitignore.io/api/java,java-web,visualstudiocode,macos
