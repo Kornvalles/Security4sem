@@ -72,4 +72,14 @@ Temporary Items
 ### Misc ###
 Misc
 
-# End of https://www.gitignore.io/api/java,java-web,visualstudiocode,macos
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.gitignore.io/api/java,java-web,visualstudiocode,macos,netbeans
